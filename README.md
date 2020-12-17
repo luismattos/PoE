@@ -10,5 +10,9 @@ Pillar of Eternity
 | Izanami | Rogue | Prince of Persia Blue Edition |
 | Aloth | Wizard | Control Freak |
 | Éder | Fighters | Nature Boy |
-| Durance |
+| Durance | Priest |
 | Kana | Chanters | 80s shred |
+| Sagani | Ranger | 
+| Hiravias | Druid|
+| Grieving Mother | Cipher | 
+| Pallegina | Paladin |
