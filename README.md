@@ -5,8 +5,10 @@ Pillar of Eternity
 
 ## Builds [...](https://steamcommunity.com/sharedfiles/filedetails/?id=416939844)
 
+| Nome | Classe | Build |
+| -- | -- | -- |
 | Izanami | Rogue | Prince of Persia Blue Edition |
 | Aloth | Wizard | Control Freak |
 | Éder | Fighters | Nature Boy |
-| Durance | | |
+| Durance |
 | Kana | Chanters | 80s shred |
