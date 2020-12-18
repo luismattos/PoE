@@ -12,7 +12,7 @@ Pillar of Eternity
 | Éder | Fighters | Nature Boy |
 | Durance | Priest |
 | Kana | Chanters | 80s shred |
-| Sagani | Ranger | 
+| Sagani | Ranger | Great White Hunter |
 | Hiravias | Druid|
 | Grieving Mother | Cipher | 
 | Pallegina | Paladin |
