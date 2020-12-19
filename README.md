@@ -18,7 +18,9 @@ Pillar of Eternity
 | Pallegina | Paladin |
 
 ## Cheat Sheet
-[]
+While playing the game, press '~' to display the console window. Type "iroll20s" and press *[Enter]* to enable cheat mode. Then, type one of the following codes and press *[Enter]* to activate the corresponding cheat function.
+**Note: Enabling codes will disable steam achievements from being earned.**
+
 | Code | Result |
 | -- | -- |
 | **God** | Invincibility |
