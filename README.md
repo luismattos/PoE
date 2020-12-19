@@ -28,7 +28,6 @@ While playing the game, press '~' to display the console window. Type "iroll20s"
 | **Invisible** | Invisibility |
 | **AddExperience** *[number]* | Add experience to party |
 | **AddAbility** *[player_name]* *[ability_name]* | Add abilities (talents) to specific player |
-|||
 | **RemoveTalent** *[charname]* *[ability/talent]* | Remove talents or abilities. Preface talents with "tln_" |
 | **GiveItem** *[item_name]* *[number]* | Add items |
 | **AddItem** *[item_name]* *[number]* | Add items |
