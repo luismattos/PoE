@@ -23,10 +23,13 @@ While playing the game, press '~' to display the console window. Type "iroll20s"
 
 | Code | Result |
 | -- | -- |
+| **FindCharacter** *[Name]* | Get console char name |
 | **God** | Invincibility |
 | **Invisible** | Invisibility |
 | **AddExperience** *[number]* | Add experience to party |
 | **AddAbility** *[player_name]* *[ability_name]* | Add abilities (talents) to specific player |
+|||
+| **RemoveTalent** *[charname]* *[ability/talent]* | Remove talents or abilities. Preface talents with "tln_" |
 | **GiveItem** *[item_name]* *[number]* | Add items |
 | **AddItem** *[item_name]* *[number]* | Add items |
 | **GivePlayerMoney** *[number]* | Add money |
@@ -47,4 +50,4 @@ While playing the game, press '~' to display the console window. Type "iroll20s"
 | **Skill** *[player_name]* *[skill_name]* *[number]* | Set base skill score |
 | **SetTime** *[time]* | Set time (1 for 1 am, 14 for 2 pm, etc.) |
 | **AdvanceTimeByHour** *[number]* | Advance time |
-| **FindGameData** *[item_name]* | Display item info	 |
+| **FindGameData** *[item_name]* | Display item info |
