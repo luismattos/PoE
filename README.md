@@ -18,31 +18,31 @@ Pillar of Eternity
 | Pallegina | Paladin |
 
 ## Cheat Sheet
-
+[]
 | Code | Result |
 | -- | -- |
-| God | Invincibility |
-| Invisible | Invisibility |
-| AddExperience *number* | Add experience to party |
-| AddAbility *player_name* *ability name* | Add abilities (talents) to specific player |
-| GiveItem *item_name* *number* | Add items |
-| AddItem *item_name* *number* | Add items |
-| GivePlayerMoney *number* | Add money |
-| RemovePlayerMoney *number* | Remove money |
-| Cosmic Bird | Add Cosmic Bird pet to inventory |
-| Cosmic Cat | Add Cosmic Cat pet to inventory |
-| Cosmic Dog | Add Cosmic Dog pet to inventory |
-| CraftingDebug | Bounty of crafting materials |
-| FreeRecipesToggle | Craft any item without materials |
-| HealParty | Restore party health and stamina |
-| NoFog | Remove fog |
-| Rest | Party will camp without camping materials |
-| ToggleSpellLimit | Cast any number of spells |
-| UnlockAll | Unlocks all chests |
-| UnlockBestiary | Unlock all enemy entries in bestiary |
-| AddExperienceToLevel *number* | Set experience level for party |
-| AttributeScore *player_name* *attribute_name* *number* | Set base attribute score |
-| Skill *player_name* *skill_name* *number* | Set base skill score |
-| SetTime *time* | Set time (1 for 1 am, 14 for 2 pm, etc.) |
-| AdvanceTimeByHour *number* | Advance time |
-| FindGameData *item_name* | Display item info	 |
+| **God** | Invincibility |
+| **Invisible** | Invisibility |
+| **AddExperience** *[number]* | Add experience to party |
+| **AddAbility** *[player_name]* *[ability_name]* | Add abilities (talents) to specific player |
+| **GiveItem** *[item_name]* *[number]* | Add items |
+| **AddItem** *[item_name]* *[number]* | Add items |
+| **GivePlayerMoney** *[number]* | Add money |
+| **RemovePlayerMoney** *[number]* | Remove money |
+| **Cosmic** *Bird* | Add Cosmic Bird pet to inventory |
+| **Cosmic** *Cat* | Add Cosmic Cat pet to inventory |
+| **Cosmic** *Dog* | Add Cosmic Dog pet to inventory |
+| **CraftingDebug** | Bounty of crafting materials |
+| **FreeRecipesToggle** | Craft any item without materials |
+| **HealParty** | Restore party health and stamina |
+| **NoFog** | Remove fog |
+| **Rest** | Party will camp without camping materials |
+| **ToggleSpellLimit** | Cast any number of spells |
+| **UnlockAll** | Unlocks all chests |
+| **UnlockBestiary** | Unlock all enemy entries in bestiary |
+| **AddExperienceToLevel** *[number]* | Set experience level for party |
+| **AttributeScore** *[player_name]* *[attribute_name]* *[number]* | Set base attribute score |
+| **Skill** *[player_name]* *[skill_name]* *[number]* | Set base skill score |
+| **SetTime** *[time]* | Set time (1 for 1 am, 14 for 2 pm, etc.) |
+| **AdvanceTimeByHour** *[number]* | Advance time |
+| **FindGameData** *[item_name]* | Display item info	 |
